@@ -1,0 +1,10 @@
+<resources>
+
+    <color name="default_bg">#e6e6e6</color>
+    <color name="color_ripple_color">#33b5e5</color>
+    <color name="apptheme_color">#ff6064</color>
+    <color name="fab_color">#ff4348</color>
+    <color name="text_color">#f90909</color>
+
+
+</resources>

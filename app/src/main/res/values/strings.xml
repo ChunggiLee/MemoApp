@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MemoApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="subject">Write subject</string>
+    <string name="content">Write content</string>
+</resources>
